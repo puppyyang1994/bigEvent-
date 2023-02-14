@@ -8,7 +8,7 @@ body {
   /* 这样整个背景图片平铺 */
   background-size: cover;
 }
-.loginAndRegbox {
+.loginAndRegBox {
   width: 400px;
   height: 310px;
   background-color: #fff;
